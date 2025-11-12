@@ -1,0 +1,92 @@
+[
+  {
+    "nombre": "Las Moras Bodegon",
+    "tipo": "Restaurante",
+    "direccion": "\nAv. Rafael Núñez 4580, X5000 Córdoba",
+    "telefono": "03516423155",
+    "website": "https://www.instagram.com/lasmorasbodegon",
+    "rating": "",
+    "cantidad_reseñas": "N/A"
+  },
+  {
+    "nombre": "Santa Calma",
+    "tipo": "Bar restaurante",
+    "direccion": "\nDeodoro Roca, X5000 Córdoba",
+    "telefono": "03518522222",
+    "website": "http://www.santacalma.com.ar/",
+    "rating": "",
+    "cantidad_reseñas": "N/A"
+  },
+  {
+    "nombre": "El Papagayo Restaurant",
+    "tipo": "Restaurante",
+    "direccion": "\nArturo M. Bas 69, X5000KLB Córdoba",
+    "telefono": "03514258689",
+    "website": "https://www.elpapagayo.com.ar/",
+    "rating": "",
+    "cantidad_reseñas": "N/A"
+  },
+  {
+    "nombre": "La Vieja Esquina",
+    "tipo": "Restaurante",
+    "direccion": "\nBelgrano 193, X5000 Córdoba",
+    "telefono": "03514247940",
+    "website": "https://www.instagram.com/laviejaesquinacba/?hl=es",
+    "rating": "",
+    "cantidad_reseñas": "N/A"
+  },
+  {
+    "nombre": "El Celta",
+    "tipo": "Restaurante",
+    "direccion": "\nJerónimo Luis de Cabrera 269, X5000 GVH, Córdoba",
+    "telefono": "03512950561",
+    "website": "https://m.facebook.com/ElCeltaRestaurant/",
+    "rating": "",
+    "cantidad_reseñas": "N/A"
+  },
+  {
+    "nombre": "SIBΛRIS ʀᴇꜱᴛᴀᴜʀᴀɴᴛᴇ",
+    "tipo": "Restaurante",
+    "direccion": "\nBuenos Aires 214, X5022AAF Córdoba",
+    "telefono": "03514254477",
+    "website": "http://www.sibarisrestaurante.com.ar/",
+    "rating": "",
+    "cantidad_reseñas": "N/A"
+  },
+  {
+    "nombre": "STANDARD 69",
+    "tipo": "Restaurante",
+    "direccion": "\nAchaval Rodriguez 244. Galería Barrio locales 17 y 18, X5000 BKF, Córdoba",
+    "telefono": "0351157719507",
+    "website": "http://www.standard69.com/",
+    "rating": "",
+    "cantidad_reseñas": "N/A"
+  },
+  {
+    "nombre": "El Solar de Tejeda",
+    "tipo": "Restaurante",
+    "direccion": "\n27 de Abril 23, X5000 Córdoba",
+    "telefono": "03514219702",
+    "website": "N/A",
+    "rating": "",
+    "cantidad_reseñas": "N/A"
+  },
+  {
+    "nombre": "Goulu",
+    "tipo": "Cafetería",
+    "direccion": "\nAv. Rafael Núñez 4308, X5009CFX Córdoba",
+    "telefono": "03514818086",
+    "website": "http://goulu.com.ar/",
+    "rating": "",
+    "cantidad_reseñas": "N/A"
+  },
+  {
+    "nombre": "Patio de la Cañada",
+    "tipo": "Restaurante argentino",
+    "direccion": "\nAv. Figueroa Alcorta 360, X5000 KFQ, Córdoba",
+    "telefono": "03514270628",
+    "website": "https://linktr.ee/PatiodelaCanada",
+    "rating": "",
+    "cantidad_reseñas": "N/A"
+  }
+]

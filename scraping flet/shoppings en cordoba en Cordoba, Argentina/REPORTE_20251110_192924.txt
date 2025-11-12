@@ -1,0 +1,3 @@
+Archivo de ejemplo: REPORTE_20251110_192924.txt
+Búsqueda: shoppings en cordoba
+Ubicación: Cordoba, Argentina

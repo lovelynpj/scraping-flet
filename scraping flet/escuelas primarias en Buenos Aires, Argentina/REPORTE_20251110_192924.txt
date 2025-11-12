@@ -1,0 +1,3 @@
+Archivo de ejemplo: REPORTE_20251110_192924.txt
+Búsqueda: escuelas primarias
+Ubicación: Buenos Aires, Argentina
